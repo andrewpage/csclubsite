@@ -5,5 +5,5 @@ var pageLoad = function() {
 };
 
 var menuClick = function() {
-	alert("sex");
+	alert("");
 };
